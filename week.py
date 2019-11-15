@@ -1,3 +1,6 @@
+
+# this the poject of the meak of the holiday
+
 a=int(input("Enter any number "))
 if a==1:
     print("sunday","it's  a holiday")
